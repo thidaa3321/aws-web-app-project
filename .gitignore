@@ -1,0 +1,15 @@
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfplan
+.terraform/
+.terraform.lock.hcl
+.vscode/
+.idea/
+*.swp
+.DS_Store
+*.log
+.env
+node_modules/
+.aws/
+web-app/images/logo.txt
